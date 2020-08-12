@@ -1,0 +1,9 @@
+<html>
+          <head></head>
+          <body>
+            <form method="POST" action="generate">
+              <input type="text" value="8" name="data" />
+              <button type="submit">Give it now!</button>
+            </form>
+          </body>
+        </html>
